@@ -42,14 +42,9 @@ GeoCert makes many many calls to linear program solvers (in the $\ell_\infty$ ca
 
 ### Installing
 
-1. Clone the repository:
+1. Install the repository:
     ```shell
-    $ git clone https://github.com/revbucket/geometric-certificates
-    $ cd geometric-certificates
-    ```
-2. Install requirements:
-    ```shell
-    $ pip install -r requirements.txt
+    $ pip install git+https://github.com/revbucket/geometric-certificates.git
     ```
 ---
 
